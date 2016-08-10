@@ -6,7 +6,7 @@ Unix-v6设计在 PDP-11系列的18位机器上运行的，比如：PDP-11/40, 11
 更多关于Unix-v6的信息，请看Dennis Ritchie的**[Unix分时系统：回顾](http://cseweb.ucsd.edu/classes/wi08/cse221/papers/ritchie78.pdf)**
 
 
-#### UNIX V6 的内核源代码
+## UNIX V6 的内核源代码
 源代码包括设备驱动程序在内约有1万行，这个数量的源代码，初学者是能够充分理解的。
 
 **传说一个人所能理解的代码量的上限就是1万行**
